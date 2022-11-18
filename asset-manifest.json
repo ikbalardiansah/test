@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/test/static/css/main.69ad9580.css",
+    "main.js": "/test/static/js/main.c5a4dec5.js",
+    "static/js/787.1ed0c42c.chunk.js": "/test/static/js/787.1ed0c42c.chunk.js",
+    "static/media/work6.png": "/test/static/media/work6.2524dfe99b447d9af33f.png",
+    "static/media/work7.png": "/test/static/media/work7.f8539c5839696dfbf9af.png",
+    "static/media/work1.png": "/test/static/media/work1.5340a9e388f8ce9999b0.png",
+    "static/media/work5.png": "/test/static/media/work5.5bc6a941abed17e7d951.png",
+    "static/media/work4.png": "/test/static/media/work4.e5554947233b42c4b479.png",
+    "static/media/work2.png": "/test/static/media/work2.0b58d69ac8da7704a06e.png",
+    "static/media/html.png": "/test/static/media/html.12f2d17d758476e18f8f.png",
+    "static/media/mysql.png": "/test/static/media/mysql.518e006b315e1e0b9634.png",
+    "static/media/laravel.png": "/test/static/media/laravel.ec82af01a792f2be55c8.png",
+    "static/media/image22.jpg": "/test/static/media/image22.3a2de14fd51c3a9a86b6.jpg",
+    "static/media/javascript.png": "/test/static/media/javascript.cbe371f53046f35f0aca.png",
+    "static/media/php.png": "/test/static/media/php.25c3642547dec2eafe52.png",
+    "static/media/image1.png": "/test/static/media/image1.9d1c66d70f45b8e86b33.png",
+    "static/media/work3.png": "/test/static/media/work3.f317654a8b5e6c7548c0.png",
+    "static/media/CV.pdf": "/test/static/media/CV.aaf4bd025db7a45dfcd5.pdf",
+    "index.html": "/test/index.html",
+    "main.69ad9580.css.map": "/test/static/css/main.69ad9580.css.map",
+    "main.c5a4dec5.js.map": "/test/static/js/main.c5a4dec5.js.map",
+    "787.1ed0c42c.chunk.js.map": "/test/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.69ad9580.css",
+    "static/js/main.c5a4dec5.js"
+  ]
+}
